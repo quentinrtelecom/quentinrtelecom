@@ -1,8 +1,8 @@
-👋 Hello! Welcome to My GitHub Profile
-I'm Quentin Raynaud - a Passionate AI Enthusiast, Engineer, and Developer from France 🇫🇷 .
+# 👋 Hello! Welcome to My GitHub Profile
+# I'm Quentin Raynaud - a Passionate AI Enthusiast, Engineer, and Developer from France 🇫🇷 . 
 🚀 About Me
 
-Student at Télécom Paris, I am currently doing an Erasmus at Politecnico di Milano 🇮🇹 for my Master of Science, where I focus on the foundations of AI, from neural network architectures to complex machine learning models. With hands-on experience from internships at Amazon and SNCF and leadership roles in Formula Student, I'm driven to create impactful solutions through technology.
+    Student at Télécom Paris, I am currently doing an Erasmus at Politecnico di Milano 🇮🇹 for my Master of Science, where I focus on the foundations of AI, from neural network architectures to complex machine learning models. With hands-on experience from internships at Amazon and SNCF and leadership roles in Formula Student, I'm driven to create impactful solutions through technology.
 
 🔍 Areas of Interest
 
@@ -16,8 +16,8 @@ Student at Télécom Paris, I am currently doing an Erasmus at Politecnico di Mi
     Exploring Transformers: Delving deeper into understanding and applying transformer architectures
 
 🌐 Let's Connect
-📫 My email : quentin.raynaud@telecom-paris.fr
-👥 My linkedin : https://www.linkedin.com/in/quentin-raynaud-035a26224/
+- 📫 My email : quentin.raynaud@telecom-paris.fr
+- 👥 My linkedin : https://www.linkedin.com/in/quentin-raynaud-035a26224/
 
 Feel free to reach out via LinkedIn or email if you'd like to chat about AI, projects, or any exciting tech!
 <!---
