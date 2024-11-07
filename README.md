@@ -12,7 +12,7 @@ Student at Télécom Paris, I am currently doing an Erasmus at Politecnico di Mi
 
 📘 Current Projects
 
-- Working on QuanTA Moves: A mixture of 4 modes with even weightings
+- Reinforcement Learning : making a Poker Bot ! 
 - Exploring Transformers: Delving deeper into understanding and applying transformer architectures
 
 🌐 Let's Connect
